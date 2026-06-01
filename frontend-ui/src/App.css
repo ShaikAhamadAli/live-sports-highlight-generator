@@ -1,0 +1,26 @@
+.upload-box {
+  background: white;
+  padding: 16px;
+  border-radius: 10px;
+  margin: 20px 0;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.upload-box input {
+  flex: 1;
+}
+
+.upload-box button {
+  background: #2563eb;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.upload-box button:hover {
+  background: #1e40af;
+}

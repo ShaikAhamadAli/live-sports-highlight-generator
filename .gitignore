@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+uploads/
+segments/
+
+.vscode/
+
+.env
+
+*.mp4
+*.avi
+*.mov
